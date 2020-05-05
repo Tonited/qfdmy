@@ -1,4 +1,4 @@
-文档来自于[千峰达摩院](http://www.qfdmy.com/#/)，用于个人学习 
+文档来自于[千峰达摩院](http://www.qfdmy.com/#/)，版权归李为民先生所有，仅用于个人学习交流
 
 ## 微服务架构编程思想-Think in MicroService
 
