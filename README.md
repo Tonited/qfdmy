@@ -4,7 +4,7 @@
 
 ### 什么是微服务架构
 
-- [微服务介绍](微服务架构编程思想-Think in MicroService/1.什么是微服务架构/1.微服务介绍.md)
+- [微服务介绍](微服务架构编程思想-ThinkinMicroService/1.什么是微服务架构/1.微服务介绍.md)
 - [使用API网关](微服务架构编程思想-Think in MicroService/1.什么是微服务架构/2.使用API网关.md)
 
 ## 微服务解决方案之消息队列-RabbitMQ
