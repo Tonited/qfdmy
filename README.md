@@ -8,6 +8,9 @@
 - [使用API网关](微服务架构编程思想-Think%20in%20MicroService/1.什么是微服务架构/2.使用API网关.md)
 - [进程间通信](微服务架构编程思想-Think%20in%20MicroService/1.什么是微服务架构/3.进程间通信.md)
 - [服务发现](微服务架构编程思想-Think%20in%20MicroService/1.什么是微服务架构/4.服务发现.md)
+- [事件驱动数据管理](微服务架构编程思想-Think%20in%20MicroService/1.什么是微服务架构/5.事件驱动数据管理.md)
+- [选择部署策略](微服务架构编程思想-Think%20in%20MicroService/1.什么是微服务架构/6.选择部署策略.md)
+- [重构单体应用为微服务](微服务架构编程思想-Think%20in%20MicroService/1.什么是微服务架构/7.重构单体应用为微服务.md)
 
 ## 微服务解决方案之消息队列-RabbitMQ
 
